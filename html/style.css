@@ -1,0 +1,30 @@
+.cabecalho{
+    width: 100%;
+    float: left;
+    padding: 50px 8px;
+    position: relative;
+    background:#B04730;
+}
+
+.cabecalho form{
+    width: 60%;
+    position: absolute;
+    left: 10%;
+}
+
+
+
+ul {
+    
+    list-style-type: none;
+    margin: 0;
+    padding: ;
+}
+
+li{
+    
+    float: left;
+    display: inline;
+    padding: 56px;
+    
+}
